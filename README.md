@@ -1,7 +1,7 @@
 # Vrinda-Store-Data-Analysis-Using-Excel
 ***
 
-https://github.com/Didar-Rashed/Vrinda-Store-Data-Analysis-Using-Excel/blob/16acfb20b90aa939a9070608a2222a1937bed672/Screenshot%202024-10-01%20114903.png
+![image](https://github.com/Didar-Rashed/Vrinda-Store-Data-Analysis-Using-Excel/blob/16acfb20b90aa939a9070608a2222a1937bed672/Screenshot%202024-10-01%20114903.png)
 
 ## Introduction
 This analysis focuses on the sales and customer behavior of Vrinda Store for the year 2022. The primary aim is to address key business questions regarding sales trends, customer demographics, and product performance to support decision-making.
